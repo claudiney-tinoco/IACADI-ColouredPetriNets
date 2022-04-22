@@ -18,7 +18,7 @@ gina [AT] ufu [DOT] br<br/>
 Stéphane Julia, Ph.D.<br/>
 Federal University of Uberlândia (UFU)<br/>
 Uberlândia/MG, Brazil<br/>
-stephane [AT] ufu [DOT] br<br/>
+stephane [AT] ufu [DOT] br<br/><br/>
 
 Title:<br/>
 "Formalisation and validation through Coloured Petri Nets of a bio-inspired coordination model for swarms of robots"
