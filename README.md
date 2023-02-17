@@ -3,7 +3,7 @@
 Claudiney R. Tinoco, M.Sc.<br/>
 Federal University of Uberlândia (UFU)<br/>
 Uberlândia/MG, Brazil<br/>
-claudineyrt [AT] gmail [DOT] com<br/>
+claudineyrt [AT] ufu [DOT] br<br/>
 
 Leiliane P. Rezende, Ph.D.<br/>
 Federal Technological University of Paraná (UTFPR)<br/>
