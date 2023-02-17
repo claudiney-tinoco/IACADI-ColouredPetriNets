@@ -10,15 +10,15 @@ Federal Technological University of Paraná (UTFPR)<br/>
 Santa Helena/PA, Brazil<br/>
 rezende [AT] utfpr [DOT] edu [DOT] br<br/>
 
-Gina M. B. Oliveira, Ph.D.<br/>
-Federal University of Uberlândia (UFU)<br/>
-Uberlândia/MG, Brazil<br/>
-gina [AT] ufu [DOT] br<br/>
-
 Stéphane Julia, Ph.D.<br/>
 Federal University of Uberlândia (UFU)<br/>
 Uberlândia/MG, Brazil<br/>
-stephane [AT] ufu [DOT] br<br/><br/>
+stephane [AT] ufu [DOT] br<br/>
+
+Gina M. B. Oliveira, Ph.D.<br/>
+Federal University of Uberlândia (UFU)<br/>
+Uberlândia/MG, Brazil<br/>
+gina [AT] ufu [DOT] br<br/><br/>
 
 Title:<br/>
 "Formalisation and validation through Coloured Petri Nets of a bio-inspired coordination model for swarms of robots"
